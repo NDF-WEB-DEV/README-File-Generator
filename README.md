@@ -20,6 +20,14 @@
 > node index.js
 ### Usage
 > This repo can be cloned and used to have a professional README.md file generator available to save time when pushing projects. This repo contains the following: node_modules directory, utils directory, .gitignore file, index.js file, package-lock.json file, package.json file, and a README.md file.
+
+[Application Image - Files Explained](./images/Project-explanation-01.png)
+
+[Application Image - Accessing the Terminal](./images/Project-explanation-02.png)
+
+[Application Image - Running the App](./images/Project-explanation-03.png)
+
+[Application Image - Input/Output](./images/Project-explanation-04.png)
 ### Questions
 Contact me with questions via [GitHub](https://github.com/NDF-WEB-DEV) or send an email to: nordleendefrias@gmail.com
 ### Report Issues
